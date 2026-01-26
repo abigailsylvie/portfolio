@@ -8,4 +8,4 @@ A responsive personal portfolio showcasing my work in AI, Cloud Computing, and C
 - JavaScript
 
 ## Live Demo
-https://YOUR_USERNAME.github.io/portfolio/
+https://abigailsylvie.github.io/portfolio/
