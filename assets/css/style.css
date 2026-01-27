@@ -6,6 +6,20 @@
    */
 
   /* gradient */
+	.about-list {
+  margin: 1rem 0 1.5rem;
+  padding-left: 1.2rem;
+}
+
+.about-list li {
+  margin-bottom: 0.4rem;
+  color: var(--text-muted);
+}
+
+.about-list li em {
+  color: var(--accent-color);
+}
+
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
